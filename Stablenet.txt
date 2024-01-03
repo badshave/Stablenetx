@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-id="SSPOME" tvg-name="[UK] Sky Sports Main Event (B)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yr74D8GtxYNQb5DbyCfHhEk5wQqcFj-cC1xPfef3crzVQ.png" group-title="UK",[UK] Sky Sports Main Event (B)
+http://redmonkeytv.com:8080/zaraellis33gm/BjG3MHp8KH/46526
+#EXTINF:-1 tvg-id="SSPOMEH" tvg-name="[UK] Sky Sports Main Event (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhj8FRyOfZMsv9BDySbfuX1kHdNmWbztlPL__gzccsUmsQ.png" group-title="UK",[UK] Sky Sports Main Event (A)
+http://redmonkeytv.com:8080/zaraellis33gm/BjG3MHp8KH/46527
+#EXTINF:-1 tvg-id="SSPOFBH" tvg-name="[UK] Sky Sports Football (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrhm80guVfoDWT6Mh0qadRFrt6gNHplx1v-eTfHi02mmA.png" group-title="UK",[UK] Sky Sports Football (A)
+http://redmonkeytv.com:8080/zaraellis33gm/BjG3MHp8KH/46528
+#EXTINF:-1 tvg-id="SSPOPL" tvg-name="[UK] Sky Sports Premier League (B)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIYNgd4ftR-i3yKxcW-JPD3d214H1lAZhPIU27hRLx99w.png" group-title="UK",[UK] Sky Sports Premier League (B)
+http://redmonkeytv.com:8080/zaraellis33gm/BjG3MHp8KH/46529
+#EXTINF:-1 tvg-id="SSPOPLH" tvg-name="[UK] Sky Sports Premier League (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwJ6uBNYIqegfYC_65SlkFC9g3p-zmopbPtHyiFRuLrZYg.png" group-title="UK",[UK] Sky Sports Premier League (A)
+http://redmonkeytv.com:8080/zaraellis33gm/BjG3MHp8KH/46530
+#EXTINF:-1 tvg-id="SSPOF1H" tvg-name="[UK] Sky Sports F1 (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwJery_mDHX3uAJ_vinb240ofUDeL-WpQJR9r9vqoIr99A.png" group-title="UK",[UK] Sky Sports F1 (A)
+http://redmonkeytv.com:8080/zaraellis33gm/BjG3MHp8KH/46531
+#EXTINF:-1 tvg-id="SSPOAHD" tvg-name="[UK] Sky Sports Arena (B)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoknXlNvGnIMdOjdIJfP7TLyvzEyWhYDPzKNHiqOo1Jbw.png" group-title="UK",[UK] Sky Sports Arena (B)
+http://redmonkeytv.com:8080/zaraellis33gm/BjG3MHp8KH/46532
+#EXTINF:-1 tvg-id="SSPOARH" tvg-name="[UK] Sky Sports Arena (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqwnWEGe6IxCuCbbJZEuqe4_6RJSzrKzsZ1vhqArhoNEQ.png" group-title="UK",[UK] Sky Sports Arena (A)
+http://redmonkeytv.com:8080/zaraellis33gm/BjG3MHp8KH/46533
+#EXTINF:-1 tvg-id="SSPOAC" tvg-name="[UK] SkySports Action (B)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yroFYRpM22tn2_swGICZ4xxCs_Y3ULx0DSdt-7W2WuZxw.png" group-title="UK",[UK] SkySports Action (B)
+http://redmonkeytv.com:8080/zaraellis33gm/BjG3MHp8KH/46534
+#EXTINF:-1 tvg-id="SSPOACD" tvg-name="[UK] Sky Sports Action (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyAg7YanIGQ6Y3dkf1M83Hy7H_kyaBNN2auldslzdhKuVA.png" group-title="UK",[UK] Sky Sports Action (A)
+http://redmonkeytv.com:8080/zaraellis33gm/BjG3MHp8KH/46535
